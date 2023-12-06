@@ -1,1 +1,2 @@
-corpus_title	(INSERT CORPUS TITLE IN translations/en/corpus-specific.txt)
+corpus_title	Spoken Corpus of Tanti Dargwa
+langname_tanti	Tanti
