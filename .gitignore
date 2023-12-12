@@ -41,8 +41,6 @@ venv/
 ENV/
 /corpus.json
 docs/_build
-**/messages.mo
-**/messages.po
 USER_CONFIG/
 **/desktop.ini
 *.zip
