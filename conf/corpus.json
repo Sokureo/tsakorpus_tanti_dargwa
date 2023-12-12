@@ -34,7 +34,7 @@
   "generate_dictionary": true,
   "fulltext_view_enabled": true,
   "use_nonpersistent_fulltext_id": true,
-  "languages": ["tanti", "russian"],
+  "languages": ["tanti", "russian", "cyrillic"],
   "input_methods": ["normal"],
   "interface_languages": [
     "en",

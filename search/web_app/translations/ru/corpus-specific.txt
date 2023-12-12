@@ -1,2 +1,3 @@
 corpus_title	Устный корпус тантынского даргинского
-langname_tanti	Тантынский
+langname_tanti  тантынский
+langname_cyrillic  кириллица
