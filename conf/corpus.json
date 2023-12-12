@@ -40,9 +40,9 @@
     "en",
     "ru"
   ],
-  "all_language_search_enabled": false,
+  "all_language_search_enabled": true,
   "gloss_search_enabled": true,
-  "ambiguous_analyses": true,
+  "ambiguous_analyses": false,
   "lang_props":
   {
     "tanti":
