@@ -1,3 +1,9 @@
 corpus_title	Spoken Corpus of Tanti Dargwa
 langname_tanti	Tanti
 langname_cyrillic	Cyrillic
+metafield_filename	Filename
+metafield_file_name	Filename
+metafield_title_rus	Title (Russian)
+metafield_title_tanti	Title (Tanti)
+metafield_recording_date	Date of recording
+metafield_comment	Comment
